@@ -69,6 +69,10 @@
         },
         "ionic-plugin-keyboard": {
             "PACKAGE_NAME": "com.ionicframework.starter"
+        },
+        "cn.jpush.phonegap.JPushPlugin": {
+            "API_KEY": "3305bfe3d3f7988c9405513d",
+            "PACKAGE_NAME": "com.ionicframework.jpush382815"
         }
     },
     "dependent_plugins": {}
